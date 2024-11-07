@@ -36,7 +36,7 @@ In this case: `1 / 2^(8-1) = 1/128 = 0.78% chance`
 
 If you were to let a large numbers balls fall and allow them to stack up they'll start to look similar to another popular concept in statistics, a normal distribution.
 
-![Alt Text](Images/plinkoRecording.gif)
+![Alt Text](Images/TrimmedPlinko.gif)
 
 See more about this on 3Blue1Brown's [video](https://www.3blue1brown.com/lessons/clt) on the central limit theorem.
 
